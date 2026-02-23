@@ -37,4 +37,6 @@ ALPHEX ist eine modulare, sichere, SQL-first Web-App mit Fokus auf Trading-Workf
 
 ## Lizenz
 
-Aktuell noch nicht festgelegt.
+Dieses Projekt steht unter der **MIT License**.
+
+- Volltext: [`LICENSE`](./LICENSE)
